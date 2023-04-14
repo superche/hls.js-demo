@@ -1,3 +1,7 @@
-h1, h2 {
-  font-family: Lato;
+#app {
+	margin: 20px auto;
+	width: 600px;
+}
+video {
+	width: 100%;
 }
